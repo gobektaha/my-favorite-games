@@ -1,0 +1,21 @@
+.oyun-main{
+    display:  flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.oyun{
+    width: 300px;
+    height: 500px;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+.yazilar{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.aciklama{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px; 
+}
+
