@@ -1,19 +1,19 @@
 # My Favorite Games
 
-Bu proje, benim favori oyunlarımı listelediğim küçük bir React uygulamasıdır.  
-Her oyun için piyasa fiyatı, açıklama ve görseller bulunuyor.  
-Bu, benim ilk kişisel projelerimden biri. 🎮
+This project is a small React application where I list my favorite games.  
+Each game includes its market price, a short description, and images.  
+This is one of my first personal projects. 🎮
 
-## Özellikler
+## Features
 
-- Favori 4 oyunun listesi
-- Her oyun için:
-  - Piyasa fiyatı
-  - Kısa açıklama
-  - Görsel
-- Basit ve temiz React yapısı
+- List of 4 favorite games
+- For each game:
+  - Market price
+  - Short description
+  - Image
+- Simple and clean React structure
 
-## Teknolojiler
+## Technologies
 
 - React
 - CSS
